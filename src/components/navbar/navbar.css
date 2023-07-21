@@ -1,0 +1,30 @@
+.navbar {
+    color: white;
+    font-weight: bold;
+    background-color:blueviolet;
+    height: 50px;
+    border-bottom: 3px solid darkblue;
+    display: flex;
+}
+
+.left {
+    flex: 1;
+    text-align: center; 
+    border-right: 2px solid darkmagenta;
+}
+
+.center {
+   flex: 3;  
+   border-right: 2px solid darkmagenta;
+   display: flex;
+   justify-content: center;
+
+   .link {
+      margin: 7px;
+   }
+}
+
+.right {
+    flex: 1; 
+    text-align: center;
+}

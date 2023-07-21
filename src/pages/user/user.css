@@ -1,0 +1,19 @@
+.user {
+    min-height: 60vh;
+    margin:10px;
+}
+
+.userList {
+   width: 100%;
+   /* background-color: green; */
+}
+
+.userEdit { 
+    /* d-flex justify-content-center */
+    display: flex;
+    justify-content: center;
+}
+
+/* .card {
+   width:90%;
+} */

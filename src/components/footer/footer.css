@@ -1,0 +1,8 @@
+.footer {
+    color: white;
+    font-weight: bold;
+    background-color:blueviolet;
+    height: 9vh;
+    border-bottom: 3px solid darkblue;
+    border-top: 3px solid darkblue;
+}

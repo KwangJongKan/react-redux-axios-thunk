@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Billy555 Gilliam",
+      "phone": "(969) 555-6478",
+      "email": "555quisque@aol.edu"
+    },
+    {
+      "id": 2,
+      "name": "kwangjong",
+      "phone": "8210-2222-3333",
+      "email": "kwangjong@google.com"
+    },
+    {
+      "id": 3,
+      "name": "kj",
+      "phone": "8210-3722-8322",
+      "email": "kj@google.com"
+    }
+  ]
+}
